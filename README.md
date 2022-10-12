@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anand-va
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning java,and basics of machine learning
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on opensource
 - 📫 How to reach me anandva@proton.me
 
